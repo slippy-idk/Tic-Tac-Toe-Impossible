@@ -11,3 +11,6 @@ so you have top middle bottom rows
 than left,middle,right colloms
 
 so an example to place an x in the top left is tl
+
+
+I plan to make a better ai that is able to make smart moves
