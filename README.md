@@ -1,2 +1,13 @@
 This is tic tac toe in C++ a rather simple project to get the basics of c++
-its impossible to win as I have a algorthim that is designed to always play the best move
+
+controls
+
+you first enter the first character of the row you wish to enter
+
+than the collom you wish to enter
+
+so you have top middle bottom rows
+
+than left,middle,right colloms
+
+so an example to place an x in the top left is tl
